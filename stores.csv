@@ -1,0 +1,47 @@
+store_id,store_name,city,state,region,locality,store_type,area_sqft,opening_date
+S001,Blinkit Kothrud,Pune,Maharashtra,West,Kothrud,Dark Store,1800,2022-01-26
+S002,Blinkit Baner,Pune,Maharashtra,West,Baner,Dark Store,1500,2022-08-17
+S003,Blinkit Hinjewadi,Pune,Maharashtra,West,Hinjewadi,Dark Store,3000,2023-11-24
+S004,Blinkit Viman Nagar,Pune,Maharashtra,West,Viman Nagar,Dark Store,2200,2023-08-28
+S005,Blinkit Hadapsar,Pune,Maharashtra,West,Hadapsar,Dark Store,1200,2022-01-31
+S006,Blinkit Wakad,Pune,Maharashtra,West,Wakad,Dark Store,3000,2022-08-27
+S007,Blinkit Andheri,Mumbai,Maharashtra,West,Andheri,Mega Hub,3000,2022-01-28
+S008,Blinkit Bandra,Mumbai,Maharashtra,West,Bandra,Dark Store,3000,2024-01-04
+S009,Blinkit Powai,Mumbai,Maharashtra,West,Powai,Express Hub,2200,2022-08-14
+S010,Blinkit Thane,Mumbai,Maharashtra,West,Thane,Mega Hub,1200,2022-10-12
+S011,Blinkit Borivali,Mumbai,Maharashtra,West,Borivali,Dark Store,2200,2023-12-16
+S012,Blinkit Dadar,Mumbai,Maharashtra,West,Dadar,Dark Store,1500,2022-10-12
+S013,Blinkit Saket,Delhi,Delhi,North,Saket,Dark Store,1800,2024-09-07
+S014,Blinkit Dwarka,Delhi,Delhi,North,Dwarka,Dark Store,2200,2022-04-05
+S015,Blinkit Rohini,Delhi,Delhi,North,Rohini,Dark Store,1800,2023-01-03
+S016,Blinkit Lajpat Nagar,Delhi,Delhi,North,Lajpat Nagar,Mega Hub,1200,2022-09-28
+S017,Blinkit Janakpuri,Delhi,Delhi,North,Janakpuri,Express Hub,1200,2023-07-04
+S018,Blinkit Sector 49,Gurugram,Haryana,North,Sector 49,Express Hub,3000,2022-03-22
+S019,Blinkit DLF Phase 3,Gurugram,Haryana,North,DLF Phase 3,Dark Store,3000,2024-04-29
+S020,Blinkit Sohna Road,Gurugram,Haryana,North,Sohna Road,Dark Store,1500,2023-08-15
+S021,Blinkit Golf Course Rd,Gurugram,Haryana,North,Golf Course Rd,Dark Store,1500,2022-02-16
+S022,Blinkit Koramangala,Bengaluru,Karnataka,South,Koramangala,Dark Store,1500,2022-03-23
+S023,Blinkit Indiranagar,Bengaluru,Karnataka,South,Indiranagar,Dark Store,1800,2023-01-25
+S024,Blinkit Whitefield,Bengaluru,Karnataka,South,Whitefield,Express Hub,1800,2023-10-13
+S025,Blinkit HSR Layout,Bengaluru,Karnataka,South,HSR Layout,Dark Store,1800,2023-01-15
+S026,Blinkit Jayanagar,Bengaluru,Karnataka,South,Jayanagar,Dark Store,1800,2023-11-18
+S027,Blinkit BTM,Bengaluru,Karnataka,South,BTM,Dark Store,1500,2023-09-16
+S028,Blinkit Gachibowli,Hyderabad,Telangana,South,Gachibowli,Mega Hub,1500,2024-01-17
+S029,Blinkit Madhapur,Hyderabad,Telangana,South,Madhapur,Dark Store,2200,2023-04-19
+S030,Blinkit Kondapur,Hyderabad,Telangana,South,Kondapur,Dark Store,3000,2024-08-05
+S031,Blinkit Banjara Hills,Hyderabad,Telangana,South,Banjara Hills,Dark Store,1800,2023-12-03
+S032,Blinkit Adyar,Chennai,Tamil Nadu,South,Adyar,Dark Store,1200,2022-08-23
+S033,Blinkit T Nagar,Chennai,Tamil Nadu,South,T Nagar,Dark Store,1800,2023-02-15
+S034,Blinkit Velachery,Chennai,Tamil Nadu,South,Velachery,Dark Store,3000,2022-08-05
+S035,Blinkit Anna Nagar,Chennai,Tamil Nadu,South,Anna Nagar,Dark Store,2200,2022-08-06
+S036,Blinkit Salt Lake,Kolkata,West Bengal,East,Salt Lake,Express Hub,2200,2024-06-24
+S037,Blinkit New Town,Kolkata,West Bengal,East,New Town,Dark Store,1500,2022-09-29
+S038,Blinkit Garia,Kolkata,West Bengal,East,Garia,Dark Store,3000,2024-02-02
+S039,Blinkit Ballygunge,Kolkata,West Bengal,East,Ballygunge,Mega Hub,3000,2022-09-27
+S040,Blinkit Satellite,Ahmedabad,Gujarat,West,Satellite,Express Hub,3000,2024-07-08
+S041,Blinkit Bopal,Ahmedabad,Gujarat,West,Bopal,Express Hub,1500,2023-01-06
+S042,Blinkit Navrangpura,Ahmedabad,Gujarat,West,Navrangpura,Dark Store,2200,2023-06-06
+S043,Blinkit Maninagar,Ahmedabad,Gujarat,West,Maninagar,Dark Store,1200,2024-02-13
+S044,Blinkit Malviya Nagar,Jaipur,Rajasthan,North,Malviya Nagar,Dark Store,1500,2022-06-06
+S045,Blinkit Vaishali Nagar,Jaipur,Rajasthan,North,Vaishali Nagar,Express Hub,1200,2023-09-03
+S046,Blinkit Mansarovar,Jaipur,Rajasthan,North,Mansarovar,Express Hub,3000,2023-01-26

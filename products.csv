@@ -1,0 +1,96 @@
+product_id,product_name,brand,category,sub_category,mrp,cost_price,is_perishable
+P001,Amul Taaza Milk 500ml,Amul,Dairy & Eggs,Milk,29,25.53,Yes
+P002,Mother Dairy Toned Milk 1L,Mother,Dairy & Eggs,Milk,68,61.76,Yes
+P003,Amul Gold Milk 1L,Amul,Dairy & Eggs,Milk,72,63.48,Yes
+P004,Amul Masti Curd 400g,Amul,Dairy & Eggs,Curd & Paneer,40,35.53,Yes
+P005,Amul Paneer 200g,Amul,Dairy & Eggs,Curd & Paneer,95,89.23,Yes
+P006,Mother Dairy Dahi 1kg,Mother,Dairy & Eggs,Curd & Paneer,85,76.22,Yes
+P007,Farm Eggs 6 pcs,Farm,Dairy & Eggs,Eggs,60,53.95,Yes
+P008,Farm Eggs 12 pcs,Farm,Dairy & Eggs,Eggs,115,104.39,Yes
+P009,Eggoz Brown Eggs 6 pcs,Eggoz,Dairy & Eggs,Eggs,85,78.54,Yes
+P010,Amul Butter 100g,Amul,Dairy & Eggs,Butter & Cheese,60,54.09,Yes
+P011,Amul Cheese Slices 200g,Amul,Dairy & Eggs,Butter & Cheese,140,130.66,Yes
+P012,Britannia Cheese Cube 200g,Britannia,Dairy & Eggs,Butter & Cheese,125,114.24,Yes
+P013,Lays Classic Salted 52g,Lays,Snacks & Munchies,Chips,20,15.82,No
+P014,Kurkure Masala Munch 90g,Kurkure,Snacks & Munchies,Chips,20,14.52,No
+P015,Bingo Mad Angles 72g,Bingo,Snacks & Munchies,Chips,20,14.72,No
+P016,Pringles Original 107g,Pringles,Snacks & Munchies,Chips,110,89.73,No
+P017,Parle-G 800g,Parle-G,Snacks & Munchies,Biscuits,90,70.64,No
+P018,Oreo Biscuit 120g,Oreo,Snacks & Munchies,Biscuits,40,33.07,No
+P019,Britannia Good Day 250g,Britannia,Snacks & Munchies,Biscuits,50,36.57,No
+P020,Hide & Seek 100g,Hide,Snacks & Munchies,Biscuits,35,25.79,No
+P021,Haldiram Bhujia 200g,Haldiram,Snacks & Munchies,Namkeen,60,48.67,No
+P022,Haldiram Aloo Bhujia 400g,Haldiram,Snacks & Munchies,Namkeen,110,84.36,No
+P023,Bikaji Moong Dal 200g,Bikaji,Snacks & Munchies,Namkeen,55,42.4,No
+P024,Cadbury Dairy Milk 50g,Cadbury,Snacks & Munchies,Chocolates,50,41.51,No
+P025,KitKat 4 Finger,KitKat,Snacks & Munchies,Chocolates,40,30.03,No
+P026,Ferrero Rocher 3 pcs,Ferrero,Snacks & Munchies,Chocolates,130,101.38,No
+P027,Snickers 45g,Snickers,Snacks & Munchies,Chocolates,45,33.7,No
+P028,Coca-Cola 750ml,Coca-Cola,Beverages,Soft Drinks,40,32.07,No
+P029,Pepsi 750ml,Pepsi,Beverages,Soft Drinks,40,34.4,No
+P030,Sprite 750ml,Sprite,Beverages,Soft Drinks,40,32.97,No
+P031,Thums Up 2L,Thums,Beverages,Soft Drinks,95,81.5,No
+P032,Real Fruit Mango 1L,Real,Beverages,Juices,110,83.36,No
+P033,Tropicana Orange 1L,Tropicana,Beverages,Juices,120,91.6,No
+P034,Paper Boat Aamras 250ml,Paper,Beverages,Juices,35,26.9,No
+P035,Tata Tea Gold 500g,Tata,Beverages,Tea & Coffee,285,235.46,No
+P036,Nescafe Classic 50g,Nescafe,Beverages,Tea & Coffee,165,140.85,No
+P037,Red Label Tea 250g,Red,Beverages,Tea & Coffee,130,99.24,No
+P038,Bru Instant 100g,Bru,Beverages,Tea & Coffee,290,219.19,No
+P039,Red Bull 250ml,Red,Beverages,Energy Drinks,125,106.32,No
+P040,Monster Energy 350ml,Monster,Beverages,Energy Drinks,110,88.72,No
+P041,Sting Energy 250ml,Sting,Beverages,Energy Drinks,20,17.05,No
+P042,Onion 1kg,Onion,Fruits & Vegetables,Vegetables,45,32.11,Yes
+P043,Tomato 1kg,Tomato,Fruits & Vegetables,Vegetables,40,28.51,Yes
+P044,Potato 1kg,Potato,Fruits & Vegetables,Vegetables,35,28.07,Yes
+P045,Capsicum 500g,Capsicum,Fruits & Vegetables,Vegetables,50,37.67,Yes
+P046,Cauliflower 1pc,Cauliflower,Fruits & Vegetables,Vegetables,45,33.44,Yes
+P047,Banana 1 dozen,Banana,Fruits & Vegetables,Fruits,60,46.97,Yes
+P048,Apple Shimla 1kg,Apple,Fruits & Vegetables,Fruits,180,125.61,Yes
+P049,Pomegranate 500g,Pomegranate,Fruits & Vegetables,Fruits,110,83.68,Yes
+P050,Papaya 1pc,Papaya,Fruits & Vegetables,Fruits,70,55.32,Yes
+P051,Coriander 100g,Coriander,Fruits & Vegetables,Leafy & Herbs,15,11.17,Yes
+P052,Spinach 250g,Spinach,Fruits & Vegetables,Leafy & Herbs,25,17.95,Yes
+P053,Mint 100g,Mint,Fruits & Vegetables,Leafy & Herbs,15,11.88,Yes
+P054,Aashirvaad Atta 5kg,Aashirvaad,Staples & Grocery,Atta & Rice,290,263.37,No
+P055,India Gate Basmati 5kg,India,Staples & Grocery,Atta & Rice,640,550.62,No
+P056,Fortune Sona Masoori 5kg,Fortune,Staples & Grocery,Atta & Rice,360,318.42,No
+P057,Fortune Sunflower Oil 1L,Fortune,Staples & Grocery,Oil & Ghee,150,134.9,No
+P058,Amul Ghee 1L,Amul,Staples & Grocery,Oil & Ghee,640,572.01,No
+P059,Saffola Gold Oil 1L,Saffola,Staples & Grocery,Oil & Ghee,185,170.48,No
+P060,Tur Dal 1kg,Tur,Staples & Grocery,Dal & Pulses,160,146.28,No
+P061,Moong Dal 1kg,Moong,Staples & Grocery,Dal & Pulses,135,122.36,No
+P062,Chana Dal 1kg,Chana,Staples & Grocery,Dal & Pulses,110,97.77,No
+P063,Everest Garam Masala 100g,Everest,Staples & Grocery,Spices,90,82.25,No
+P064,MDH Chaat Masala 100g,MDH,Staples & Grocery,Spices,80,73.17,No
+P065,Tata Salt 1kg,Tata,Staples & Grocery,Spices,28,25.9,No
+P066,Head & Shoulders 340ml,Head,Personal Care,Hair Care,355,264.22,No
+P067,Dove Shampoo 340ml,Dove,Personal Care,Hair Care,340,269.46,No
+P068,Parachute Coconut Oil 500ml,Parachute,Personal Care,Hair Care,215,152.94,No
+P069,Nivea Body Lotion 400ml,Nivea,Personal Care,Skin Care,395,283.15,No
+P070,Lakme Sun Expert 50g,Lakme,Personal Care,Skin Care,285,231.28,No
+P071,Himalaya Face Wash 150ml,Himalaya,Personal Care,Skin Care,175,138.5,No
+P072,Colgate Strong Teeth 200g,Colgate,Personal Care,Oral Care,115,85.07,No
+P073,Sensodyne 150g,Sensodyne,Personal Care,Oral Care,260,206.52,No
+P074,Oral-B Brush 2 pcs,Oral-B,Personal Care,Oral Care,99,79.61,No
+P075,Dettol Soap 3 pcs,Dettol,Personal Care,Bath & Body,120,84.93,No
+P076,Dove Soap 4 pcs,Dove,Personal Care,Bath & Body,240,180.35,No
+P077,Lux Soap 5 pcs,Lux,Personal Care,Bath & Body,230,175.55,No
+P078,Surf Excel Matic 2kg,Surf,Household & Cleaning,Detergents,480,375.14,No
+P079,Tide Plus 1kg,Tide,Household & Cleaning,Detergents,130,101.3,No
+P080,Ariel Powder 1kg,Ariel,Household & Cleaning,Detergents,270,227.06,No
+P081,Harpic 1L,Harpic,Household & Cleaning,Cleaners,195,165.81,No
+P082,Lizol Floor Cleaner 975ml,Lizol,Household & Cleaning,Cleaners,210,171.55,No
+P083,Vim Dishwash Gel 500ml,Vim,Household & Cleaning,Cleaners,110,89.94,No
+P084,Origami Tissue 2 ply,Origami,Household & Cleaning,Paper Products,60,48.8,No
+P085,Kitchen Roll 2 pcs,Kitchen,Household & Cleaning,Paper Products,110,86.58,No
+P086,Paper Napkin 100 pcs,Paper,Household & Cleaning,Paper Products,55,43.6,No
+P087,Maggi Masala 4 pack,Maggi,Instant Food,Noodles & Pasta,56,41.55,No
+P088,Yippee Noodles 4 pack,Yippee,Instant Food,Noodles & Pasta,60,50.89,No
+P089,Sunfeast Pasta 400g,Sunfeast,Instant Food,Noodles & Pasta,80,64.93,No
+P090,MTR Poha 160g,MTR,Instant Food,Ready to Eat,60,49.16,No
+P091,Gits Gulab Jamun 200g,Gits,Instant Food,Ready to Eat,105,79.44,No
+P092,MTR Rava Idli Mix 500g,MTR,Instant Food,Ready to Eat,105,87.17,No
+P093,McCain Fries 420g,McCain,Instant Food,Frozen,140,117.2,No
+P094,Frozen Green Peas 500g,Frozen,Instant Food,Frozen,85,68.52,No
+P095,ITC Chicken Nuggets 400g,ITC,Instant Food,Frozen,240,194.25,No
